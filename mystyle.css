@@ -1,0 +1,12 @@
+.h1 { 
+font-family: 'Times New Roman', Times, serif;
+color: crimson;
+}
+
+.test {
+color: rgb(0, 0, 0);
+background-color: darkorange;
+font-family: Impact;
+margin: 100px;
+
+}
